@@ -23,4 +23,3 @@ jobs:
       - run: mypy src
       - name: Run tests
         run: pytest -q
-
